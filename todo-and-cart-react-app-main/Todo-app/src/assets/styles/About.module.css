@@ -1,0 +1,19 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+  
+.container__heading {
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 10px;
+}
+  
+.container__services {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 20px;
+}
+  
